@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+langchain-cohere
+langchainhub
+langchain-experimental
+langgraph
+# https://www.datacamp.com/tutorial/langgraph-tutorial
+langsmith
+#fastembed==0.3.0
+groq
+rank-bm25
+chromadb
+gradio
