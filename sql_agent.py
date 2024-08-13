@@ -30,7 +30,7 @@ def create_tool_node_with_fallback(tools: list) -> RunnableWithFallbacks[Any, di
         [RunnableLambda(handle_tool_error)], exception_key="error"
     )
 
-toolkit = SQLDatabaseToolkit(db=db, llm=ChatOpenAI(model="gpt-4o"))
+toolkit = SQLDatabaseToolkit(db=db, llm=ChatOpenAI(model="gpt-4o-mini"))
 tools = toolkit.get_tools()
 
 list_tables_tool = next(tool for tool in tools if tool.name == "sql_db_list_tables")
@@ -81,7 +81,7 @@ You will call the appropriate tool to execute the query after running this check
 query_check_prompt = ChatPromptTemplate.from_messages(
     [("system", query_check_system), ("placeholder", "{messages}")]
 )
-query_check = query_check_prompt | ChatOpenAI(model="gpt-4o", temperature=0).bind_tools(
+query_check = query_check_prompt | ChatOpenAI(model="gpt-4o-mini", temperature=0).bind_tools(
     [db_query_tool], tool_choice="required"
 )
 
@@ -92,7 +92,6 @@ class State(TypedDict):
 
 # Define a new graph
 workflow = StateGraph(State)
-
 
 # Add a node for the first tool call
 def first_tool_call(state: State) -> dict[str, list[AIMessage]]:
@@ -128,7 +127,7 @@ workflow.add_node(
 workflow.add_node("get_schema_tool", create_tool_node_with_fallback([get_schema_tool]))
 
 # Add a node for a model to choose the relevant tables based on the question and available tables
-model_get_schema = ChatOpenAI(model="gpt-4o", temperature=0).bind_tools(
+model_get_schema = ChatOpenAI(model="gpt-4o-mini", temperature=0).bind_tools(
     [get_schema_tool]
 )
 workflow.add_node(
@@ -154,17 +153,11 @@ DO NOT call any tool besides SubmitFinalAnswer to submit the final answer.
 
 You should focus on these collumns
 
-product_info_id: Unique identifier for each product information entry.
-group_product_id: Identifier for the group to which the product belongs.
-group_product_code: Code representing the group of products.
-group_product_name: Name of the product group.
+
 product_code: Code identifying the individual product.
-product_name: Name of the product.
-package_id: Identifier for the package associated with the product.
-lifecare_price: The price of the product
-product_info: Detailed information about the product.
+price: The price of the product
 specification: Specific details or specifications of the product.
-group_name: Name of the group or category the product belongs to.
+name: Name of the product
 power: Power consumption or output of the product (in watts).
 weight: Weight of the product (in kilograms).
 volume: Volume of the product (in cubic meters).
@@ -253,13 +246,12 @@ workflow.add_edge("execute_query", "query_gen")
 # Compile the workflow into a runnable
 app = workflow.compile()
 
-from pprint import pprint
 import time
 
 def Retrieve_from_SQL(input: str):
     try:
         time_in = time.time()
-        messages = app.invoke({"messages": [("user", input)]})
+        messages = app.invoke({"messages": [("user", input)]}, {"recursion_limit": 10})
         json_str = messages["messages"][-1].additional_kwargs["tool_calls"][0]["function"]["arguments"]
         print(time.time() - time_in)
         return json.loads(json_str)["final_answer"]
@@ -267,7 +259,7 @@ def Retrieve_from_SQL(input: str):
         print(f"An error occurred: {str(e)}")
         return "Không có thông tin sản phẩm"  # or an appropriate default value
 
-# print(Retrieve_from_SQL("điều hòa giá rẻ cho phòng 20m2 với 4 người ở"))
+# print(Retrieve_from_SQL("tôi cần tìm điều hòa có công suất 12000w"))
 
 #for event in app.stream(
 #    {"messages": [("user", "ghế masage daikiosan làm bằng da, có cân nặng trên 5kg và có công suất trên 200w và Đèn năng lượng mặt trời có câm nặng tầm 3kg")]}

@@ -1,42 +1,84 @@
-PRODUCT_INFO_ID,GROUP_PRODUCT_ID,GROUP_PRODUCT_NAME,PRODUCT_CODE,NON_VAT_PRICE_1,VAT_PRICE_1,COMMISSION_1,THRESHOLD_1,NON_VAT_PRICE_2,VAT_PRICE_2,COMMISSION_2,THRESHOLD_2,NON_VAT_PRICE_3,VAT_PRICE_3,PRODUCT_NAME,SPECIFICATION_BACKUP,RAW_PRICE,QUANTITY_SOLD,POWER,WEIGHT,VOLUME
-577845,Nồi áp suất,"nồi áp suất , nồi áp suất điện kalite kl-636 6 lít",M&EGD000159,1622600,1784860,16226,Giá trị đơn hàng > 10 triệu,1659600,1825560,33192,Giá trị đơn hàng từ 5-10 triệu,1800400,1980440,Nồi áp suất điện KALITE KL-636 6 lít,"
-• Thương hiệu: Kalite 
-• Màu sắc: trắng và đen 
-• Chất liệu: INOX 
-• Dung tích: 6L 
-• Điện áp: 220V/50Hz 
-• Công suất: 1000W 
-• Bảng điều khiển: Song ngữ Tiếng Việt + Tiếng Anh, điều khiển bằng nút điện tử
-giá: 1980440",1980440,31,1000,0.0,0.0
-509323,Nồi áp suất,"nồi áp suất , nồi áp suất bluestone pcb-5648 4,5 lít 900w",M&EAS100002,1673600,1840960,16736,Giá trị đơn hàng > 10 triệu,1710200,1881220,34204,Giá trị đơn hàng từ 5-10 triệu,1855300,2040830,"Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W","
-• Công suất: 900W 
-• Dung tích: 4.5 Lít 
-• Chế độ nấu cài đặt sẵn: 13 Chế độ 
-• Chất liệu vỏ ngoài: Hợp kim phủ sơn tĩnh điện 
-• Chất liệu lòng nồi: Lòng nồi hợp kim nhôm chống dính 
-• Chức năng khác: Nút ấn xả và van xả tự động, Bảng điều khiển núm vặn, Tính năng giữ ấm tự động sau khi kết thúc chương trình nấu 
-• Khối lượng sản phẩm: 5kg 
-• Màu sắc: Vàng đồng 
-• Nhà sản xuất: Bluestone
-giá: 2040830",2040830,25,900,5.0,4.5
-509324,Nồi áp suất,"nồi áp suất , nồi áp suất bluestone pcb-5748",M&EAS100003,1673600,1840960,16736,Giá trị đơn hàng > 10 triệu,1710200,1881220,34204,Giá trị đơn hàng từ 5-10 triệu,1855300,2040830,Nồi Áp Suất Bluestone Pcb-5748,"Thương hiệu: Bluestone 
-Mã sản phẩm: PCB-5748 Loại nồi áp suất Nồi áp suất điện 
-Dung tích: thực 5L 
-Công suất: 900W 
-Chất liệu: nồi Vỏ ngoài thép sơn tĩnh điện Lòng nồi hợp kim nhôm chống dính 
-Bảng điều khiển: Nút nhấn có màn hình hiển thị Chức năng chính Hầm thịt Nấu gân Nấu đậu Giữ ấm Hầm xương
-giá: 2040830",2040830,8,900,0.0,0.0
-574095,Nồi áp suất,"nồi áp suất , nồi áp suất aio smart aiopto3l23s/6co",M&EGD000243,1326600,1459260,39798,Giá trị đơn hàng > 20 triệu,1472200,1619420,117776,Giá trị đơn hàng từ 10-20 triệu,1887500,2076250,Nồi áp suất AIO Smart AIOPTO3L23S/6CO,"Công suất: 1350W 
-Nguồn định mức: 220VAC - 50/60Hz 
-Áp suất hoạt động: 80Kpa 
-Dung tích: 6.0L 
-Chất liệu lòng nồi: Hợp kim nhôm phủ chống dính 
-Kích thước lòng nồi: Đường kính 240mm, dày 2.0mm 
-Chức năng : hâm nóng, giữ ấm, nấu chậm, nấu sốt đặc, xào, hầm, làm sữa chua 
-Van an toàn: 1 van chính, 1 van phụ Van xả áp tự động Tự ngắt khi quá nhiệt Tự làm sạch nồi Tự động giữ ấm sau khi nấu Chế độ hẹn giờ Điều chỉnh nhiệt độ Màn hình LED hiển thị nhiệt độ, thời gian 
-Ngôn ngữ : Tiếng Việt 
-Kích thước sản phẩm (DxRXC): 359.5x367x299 mm 
-Khối lượng sản phẩm: 7.1 kg 
-Thời gian bảo hành: 12 tháng 
-Kích hoạt bảo hành điện tử: Có
-giá: 2076250",2076250,69,1350,7.1,0.0
+product_info_id,group_product_id,group_product_code,group_product_name,product_code,product_name,is_highlight,package_id,lifecare_price,product_info,file_path,name,specification,group_name,power,weight,volume
+577845,686,DM0000685,nồi áp suất,M&EGD000159,nồi áp suất điện kalite kl-636 6 lít,0,239723,1682000,"• Nồi áp suất điện đa năng Kalite KL636 là thế hệ nồi áp suất điện thông minh khắc phục mọi nhược điểm của các loại nồi truyền thống, mang đến cho bạn trải nghiệm nấu nướng tuyệt vời. Chiếc nồi đa năng có thể thay thế 5 loại thiết bị nhà bếp với hơn 10 tính năng chế biến chuyên sâu được lập trình sẵn, đảm bảo sự tiện ích, an toàn khi sử dụng. Ngoài ra, nồi còn trang bị thêm nắp kính, biến đổi linh hoạt trong quá trình nấu. Nấu ăn ngon, tiết kiệm thời gian, năng lượng, không bám mùi.
+
+• Nồi áp suất đa chức năng. Nồi áp suất điện Kalite KL – 636 được thiết kế với bảng điều khiển lập trình sẵn hơn 10 chế độ nấu dành cho các món hàng ngày như: nấu súp, nấu cơm, nấu gạo lứt và ngũ cốc, nấu đậu, nấu yến mạch, nấu thịt gia cầm, làm sữa chua,…Bên cạnh đó, nồi sở hữu 4 tính năng giúp điều chỉnh về: Áp suất, thời gian, hẹn giờ, giữ ấm tạo sự tiện lợi cho người dùng trong quá trình nấu.
+
+• Thay thế 5 loại thiết bị nhà bếp khác nhau. Sở hữu nhiều tính năng chuyên sâu, đa dạng trong các chế độ nấu, nồi áp suất điện Kalite KL636 có thể thay thế hoàn toàn 5 thiết bị nhà bếp khác nhau như: Nồi cơm điện, nồi áp suất truyền thống, nồi lẩu, chảo rán, nồi niêu. Chiếc nồi hiện đại, đa chức năng sẽ giúp bạn tiết kiệm kinh tế khi trang bị nhiều loại thiết bị khác nhau. Và thêm vào đó là tiết kiệm rất nhiều không bếp cho gia đình.
+
+• Lòng nồi phủ chống dính Teflon cao cấp, an toàn cho sức khỏe. Lòng nồi có cấu tạo 3 lớp, phủ chống dính Teflon cao cấp không chỉ an toàn cho sức khỏe mà còn chống có khả năng chống xước, chống bám dầu mỡ, giúp dễ dàng vệ sinh và có tính bền bỉ cao, chống móp méo.
+
+• Dung tích lớn. Nồi có dung tích lớn lên tới 6L, phù hợp cho những gia đình từ 4 - 6 người.
+
+• Tích hợp hệ thống khóa an toàn tại phần nắp. Nồi áp suất điện Kalite KL636 có tính năng an toàn tích hợp ngăn không cho tất cả các chức năng kích hoạt nếu nắp không được khóa đúng vị trí.",//input/mobile_images/2024/2/18/92/NỒI ÁP SUẤT ĐIỆN  KALITE KL-636.png,NỒI ÁP SUẤT ĐIỆN  KALITE KL-636.png,"• thương hiệu: kalite
+• màu sắc: trắng và đen
+• chất liệu: inox
+• dung tích: 6l
+• điện áp: 220v/50hz
+• công suất: 1000w
+• bảng điều khiển: song ngữ tiếng việt + tiếng anh, điều khiển bằng nút điện tử",nồi áp suất điện kalite kl-636 6 lít,1000,0.0,6.0
+574095,686,DM0000685,nồi áp suất,M&EGD000243,nồi áp suất aio smart aiopto3l23s/6co,0,244581,2373000,"Công suất hoạt động lên đến 1350W mạnh mẽ, nấu nhanh, tiết kiệm thời gian.  Dung tích 6 lít, nấu được gà nguyên con khoảng 1 - 1.2 kg cho gia đình. 
+Bảng điều khiển nút nhấn có màn hình hiển thị, dễ dàng tuỳ chỉnh và quan sát chức năng. Nồi có nhiều chương trình cài đặt sẵn rất tiện lợi, hỗ trợ người dùng nấu ăn nhanh chóng. 
+ Lòng nồi được thiết kế dày bền, giúp lượng nhiệt tỏa đều lòng nồi, nấu thức ăn chín mềm từ trong ra ngoài.
+Van xả áp tự động, đảm bảo an toàn, giúp người dùng yên tâm sử dụng. Nắp nồi không mở ra được khi bên trong còn áp suất cao.",//input/mobile_images/2024/7/1/428/NỒI ÁP SUẤT.png,NỒI ÁP SUẤT.png,"công suất: 1350w
+nguồn định mức: 220vac - 50/60hz
+áp suất hoạt động: 80kpa
+dung tích: 6.0l
+chất liệu lòng nồi: hợp kim nhôm phủ chống dính
+kích thước lòng nồi: đường kính 240mm, dày 2.0mm
+chức năng : hâm nóng, giữ ấm, nấu chậm, nấu sốt đặc, xào, hầm, làm sữa chua
+van an toàn: 1 van chính, 1 van phụ
+van xả áp tự động
+tự ngắt khi quá nhiệt
+tự làm sạch nồi
+tự động giữ ấm sau khi nấu
+chế độ hẹn giờ
+điều chỉnh nhiệt độ
+màn hình led hiển thị nhiệt độ, thời gian
+ngôn ngữ : tiếng việt
+kích thước sản phẩm (dxrxc): 359.5x367x299 mm
+khối lượng sản phẩm: 7.1 kg
+thời gian bảo hành: 12 tháng
+kích hoạt bảo hành điện tử: có",nồi áp suất aio smart aiopto3l23s/6co,1350,7.1,6.0
+509323,686,DM0000685,nồi áp suất,M&EAS100002,"nồi áp suất bluestone pcb-5648 4,5 lít 900w",0,240122,1056000,"• Nồi áp suất dung tích 4.5 lít phù hợp với gia đình ít người.
+
+• Công suất 900W làm nóng nhanh, đun nấu nhanh chóng.
+
+• Lòng nồi làm bằng hợp kim nhôm chống dính, dễ vệ sinh.
+
+• Thân nồi Bluestone bằng hợp kim nhôm phủ sơn tĩnh điện.
+
+• Bảng điều khiển cơ có màn hình hiển thị đơn giản, dễ sử dụng.
+
+• Tính năng giữ ấm tự động sau khi kết thúc chương trình nấu.
+
+• Van xả tự động, giảm áp đảm bảo an toàn cho người dùng.",//input/mobile_images/2024/2/17/198/NỒI ÁP SUẤT BLUESTONE PCB-5648.png,NỒI ÁP SUẤT BLUESTONE PCB-5648.png,"• công suất: 900w
+• dung tích: 4.5 lít
+• chế độ nấu cài đặt sẵn: 13 chế độ
+• chất liệu vỏ ngoài: hợp kim phủ sơn tĩnh điện
+• chất liệu lòng nồi: lòng nồi hợp kim nhôm chống dính
+• chức năng khác: nút ấn xả và van xả tự động, bảng điều khiển núm vặn, tính năng giữ ấm tự động sau khi kết thúc chương trình nấu
+• khối lượng sản phẩm: 5kg
+• màu sắc: vàng đồng
+• nhà sản xuất: bluestone","nồi áp suất bluestone pcb-5648 4,5 lít 900w",900,5.0,4.5
+509324,686,DM0000685,nồi áp suất,M&EAS100003,nồi áp suất bluestone pcb-5748,0,240135,1056000,"Dung tích 5L, Nồi áp suất có bảng điều khiển điện tử, màn hình hiển thị rõ ràng, tiện dụng.
+12 chức năng nấu tự động như nấu gân, hầm thịt, nấu cơm, nấu cháo…
+Lòng nồi bằng hợp kim nhôm phủ chống dính Ceramic bền bỉ, sáng đẹp.
+Nhãn hàng nổi tiếng Singapore - Bluestone, mẫu mã đẹp, sáng, dùng tốt.",//input/mobile_images/2024/3/7/933/Nồi Áp Suất Bluestone Pcb-5748.png,Nồi Áp Suất Bluestone Pcb-5748.png,"thương hiệu	bluestone
+mã sản phẩm	pcb-5748
+loại nồi áp suất	
+nồi áp suất điện
+dung tích thực	
+5l
+công suất	
+900w
+chất liệu nồi	
+vỏ ngoài thép sơn tĩnh điện
+lòng nồi hợp kim nhôm chống dính
+bảng điều khiển	
+nút nhấn có màn hình hiển thị
+chức năng chính	
+hầm thịt
+nấu gân
+nấu đậu
+giữ ấm
+hầm xương",nồi áp suất bluestone pcb-5748,900,0.0,5.0

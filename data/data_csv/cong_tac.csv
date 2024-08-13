@@ -1,37 +1,194 @@
-PRODUCT_INFO_ID,GROUP_PRODUCT_ID,GROUP_PRODUCT_NAME,PRODUCT_CODE,NON_VAT_PRICE_1,VAT_PRICE_1,COMMISSION_1,THRESHOLD_1,NON_VAT_PRICE_2,VAT_PRICE_2,COMMISSION_2,THRESHOLD_2,NON_VAT_PRICE_3,VAT_PRICE_3,PRODUCT_NAME,SPECIFICATION_BACKUP,RAW_PRICE,QUANTITY_SOLD,POWER,WEIGHT,VOLUME
-628018,"Công tắc, ổ cắm thông minh","công tắc, ổ cắm thông minh , công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng",SMCTC000044,0,0,0,0,0,0,0,0,0,0,Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng,"THÔNG SỐ KỸ THUẬT 
-    • Điện áp hoạt động: 100-250V / 50-60Hz 
-    • Nhiệt độ hoạt động: 0oC ~ 65oC 
-    • Công suất chịu tải tối đa: ≤ 700 W/Line 
-    • Chuẩn kết nối Zigbee 
-    • Khoảng cách điều khiển tối đa: 15-20m (tùy thuộc địa hình lắp đặt)
-giá: 1063000",1063000,12,700,0.0,0.0
-628019,"Công tắc, ổ cắm thông minh","công tắc, ổ cắm thông minh , công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng",SMCTC000045,0,0,0,0,0,0,0,0,0,0,Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng,"THÔNG SỐ KỸ THUẬT 
-    • Điện áp hoạt động: 100-250V / 50-60Hz 
-    • Nhiệt độ hoạt động: 0oC ~ 65oC 
-    • Công suất chịu tải tối đa: ≤ 700 W/Line 
-    • Chuẩn kết nối: Zigbee 
-    • Khoảng cách điều khiển tối đa: 15-20m (tùy thuộc địa hình lắp đặt)
-giá: 1106000",1106000,8,700,0.0,0.0
-628020,"Công tắc, ổ cắm thông minh","công tắc, ổ cắm thông minh , công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng",SMCTC000046,0,0,0,0,0,0,0,0,0,0,Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng,"THÔNG SỐ KỸ THUẬT 
-    • Điện áp hoạt động: 100-250V / 50-60Hz 
-    • Nhiệt độ hoạt động: 0oC ~ 65oC 
-    • Công suất chịu tải tối đa: ≤ 700 W/Line 
-    • Chuẩn kết nối: Zigbee 
-    • Khoảng cách điều khiển tối đa: 15-20m (tùy thuộc địa hình lắp đặt)
-giá: 1169000",1169000,12,700,0.0,0.0
-628021,"Công tắc, ổ cắm thông minh","công tắc, ổ cắm thông minh , công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng",SMCTC000047,0,0,0,0,0,0,0,0,0,0,Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng,"THÔNG SỐ KỸ THUẬT 
-    • Điện áp hoạt động: 100-250V / 50-60Hz 
-    • Nhiệt độ hoạt động: 0oC ~ 65oC 
-    • Công suất chịu tải tối đa: ≤ 700 W/Line 
-    • Chuẩn kết nối : Zigbee 
-    • Khoảng cách điều khiển tối đa : 15-20m (tùy thuộc địa hình lắp đặt)
-giá: 1254000",1254000,8,700,0.0,0.0
-628014,"Công tắc, ổ cắm thông minh","công tắc, ổ cắm thông minh , bộ điều khiển trung tâm home controller (hc)",SMBDK000011,0,0,0,0,0,0,0,0,0,0,Bộ điều khiển trung tâm Home Controller (HC),"THÔNG SỐ KỸ THUẬT 
-Điện áp hoạt động: 12VDC – 0.5A 
-Nhiệt độ hoạt động: 0oC ~ 50oC 
-Độ ẩm hoạt động: 0 – 95% 
-Chuẩn kết nối: Zigbee 
-Kích thước (DxRxC): 120 x 80 x 24 mm 
-Bảo hành: 24 tháng
-giá: 2277000",2277000,6,0,0.0,0.0
+product_info_id,group_product_id,group_product_code,group_product_name,product_code,product_name,is_highlight,package_id,lifecare_price,product_info,file_path,name,specification,group_name,power,weight,volume
+628023,742,DM0000741,"công tắc, ổ cắm thông minh",SMCBN000005,cảm biến chuyển động kết nối zigbee màu trắng,0,242002,315000,"Cảm biến chuyển động là thiết bị có chức năng phát hiện chuyển động, kết hợp với các thiết bị khác như: đèn, động cơ rèm, còi báo động... để tạo kịch bản an ninh và báo động tới chủ nhà.
+
+Điện áp hoạt động 3 Pin AAA x 1.5V
+Nhiệt độ hoạt động -20°C ~ 45°C
+Độ ẩm hoạt động ≤90%RH (Không ngưng tụ)
+Vùng nhận diện tối đa 5m
+Góc nhận diện tối đa 120°
+Chuẩn kết nối Zigbee
+Chất liệu Nhựa PC
+Kích thước (DxRxC) 65 x 65 x 25 mm
+Màu sắc Trắng
+Bảo hành 24 tháng
+",//input/mobile_images/2024/3/7/650/CẢM BIẾN CHUYỂN ĐỘNG KẾT NỐI ZIGBEE MÀU TRẮNG.png,CẢM BIẾN CHUYỂN ĐỘNG KẾT NỐI ZIGBEE MÀU TRẮNG.png,"
+điện áp hoạt động 3 pin aaa x 1.5v
+nhiệt độ hoạt động -20°c ~ 45°c
+độ ẩm hoạt động ≤90%rh (không ngưng tụ)
+vùng nhận diện tối đa 5m
+góc nhận diện tối đa 120°
+chuẩn kết nối zigbee","công tắc, ổ cắm thông minh cảm biến chuyển động kết nối zigbee màu trắng",0,0,0
+628022,742,DM0000741,"công tắc, ổ cắm thông minh",SMCBN000004,cảm biến cửa kết nối zigbee màu trắng,0,242001,375000,"Cảm biến cửa là thiết bị gắn trên cửa ra vào giúp bảo vệ ngôi nhà của bạn, kết hợp với các thiết bị khác để kích hoạt kịch bản an ninh như: còi báo động và đèn báo động, rèm, đèn… Đồng thời cảnh báo đến chủ nhà qua smartphone khi phát hiện ngôi nhà bị đột nhập trái phép.
+
+
+Điện áp hoạt động 3V CR2032
+Nhiệt độ hoạt động -10oC ~ 50oC
+Độ ẩm hoạt động 0 ~ 95%
+Chuẩn kết nối Zigbee, Bluetooth Mesh
+Khoảng cách điều khiển tối đa 15m - 20m (tùy thuộc
+địa hình lắp đặt)
+Độ nhạy cảm biến (khoảng cách thanh cảm biến và thanh từ) ≤ 20mm
+Chất liệu Vỏ nhựa
+Kích thước thanh cảm biến (DxRxC) 52.5 x 26.5 x 13.5 mm
+Kích thước thanh từ (DxRxC) 25.5 x 12.5 x 13.5 mm
+Màu sắc Trắng
+Bảo hành 24 tháng
+",//input/mobile_images/2024/3/7/861/CẢM BIẾN CỬA KẾT NỐI ZIGBEE  MÀU TRẮNG.png,CẢM BIẾN CỬA KẾT NỐI ZIGBEE  MÀU TRẮNG.png,"
+điện áp hoạt động 3v cr2032
+nhiệt độ hoạt động -10oc ~ 50oc
+độ ẩm hoạt động 0 ~ 95%
+chuẩn kết nối zigbee, bluetooth mesh
+khoảng cách điều khiển tối đa 15m - 20m (tùy thuộc
+địa hình lắp đặt)
+độ nhạy cảm biến (khoảng cách thanh cảm biến và thanh từ) ≤ 20mm","công tắc, ổ cắm thông minh cảm biến cửa kết nối zigbee màu trắng",0,0,0
+628021,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000047,công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng,0,232589,1254000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Chữ nhật: 120 x 72 x 34 mm
+Màu sắc: Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/286/CÔNG TẮC CẢM ỨNG 4 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 4 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+","công tắc, ổ cắm thông minh công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng",700,0,0
+628020,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000046,công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng,0,242003,602000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Chữ nhật: 120 x 72 x 34 mm
+Màu sắc: Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/262/CÔNG TẮC CẢM ỨNG 3 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 3 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)","công tắc, ổ cắm thông minh công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng",700,0,0
+628019,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000045,công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng,0,232586,1106000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Chữ nhật: 120 x 72 x 34 mm
+Màu sắc: Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/346/CÔNG TẮC CẢM ỨNG 2 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 2 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)","công tắc, ổ cắm thông minh công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng",700,0,0
+628018,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000044,công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng,0,232599,1063000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Chữ nhật: 120 x 72 x 34 mm
+Màu sắc Đen, Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/849/CÔNG TẮC CẢM ỨNG 1 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 1 NÚT CHỮ NHẬT - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+","công tắc, ổ cắm thông minh công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng",700,0,0
+628015,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000048,công tắc cảm ứng 1 nút vuông - 2 dây màu trắng,0,239648,542000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Màu sắc Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/776/CÔNG TẮC CẢM ỨNG 1 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 1 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)","công tắc, ổ cắm thông minh công tắc cảm ứng 1 nút vuông - 2 dây màu trắng",700,0,0
+628016,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000049,công tắc cảm ứng 2 nút vuông - 2 dây màu trắng,0,239649,569000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Màu sắc Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/97/CÔNG TẮC CẢM ỨNG 2 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 2 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)","công tắc, ổ cắm thông minh công tắc cảm ứng 2 nút vuông - 2 dây màu trắng",700,0,0
+628017,742,DM0000741,"công tắc, ổ cắm thông minh",SMCTC000050,công tắc cảm ứng 3 nút vuông - 2 dây màu trắng,0,239626,607000,"
+Điện áp hoạt động 100-250V / 50-60Hz
+Nhiệt độ hoạt động 0oC ~ 65oC
+Công suất chịu tải tối đa ≤ 700 W/Line
+Chuẩn kết nối Zigbee
+Khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)
+
+Chất liệu
+Vỏ nhựa PC có khả năng chống cháy, Viền nhôm, Mặt kính được gia cường
+Kích thước (DxRxC) Vuông: 86 x 86 x 34 mm
+Màu sắc Trắng
+Bảo hành 24 tháng
+
+",//input/mobile_images/2024/3/7/617/CÔNG TẮC CẢM ỨNG 3 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,CÔNG TẮC CẢM ỨNG 3 NÚT VUÔNG - 2 DÂY MÀU TRĂNG.png,"
+điện áp hoạt động 100-250v / 50-60hz
+nhiệt độ hoạt động 0oc ~ 65oc
+công suất chịu tải tối đa ≤ 700 w/line
+chuẩn kết nối zigbee
+khoảng cách điều khiển tối đa 15-20m (tùy thuộc địa hình lắp đặt)","công tắc, ổ cắm thông minh công tắc cảm ứng 3 nút vuông - 2 dây màu trắng",700,0,0
+628014,742,DM0000741,"công tắc, ổ cắm thông minh",SMBDK000011,bộ điều khiển trung tâm home controller (hc),0,240734,1042000,"Trung tâm xử lý thế hệ mới AIO HC, sử dụng công nghệ xử lý tại biên đảm bảo tất cả các chức năng thông minh của căn nhà hoạt động bình thường ngay cả khi mất kết nối Internet.
+
+Điện áp hoạt động 12VDC – 0.5A
+Nhiệt độ hoạt động 0oC ~ 50oC
+Độ ẩm hoạt động 0 – 95%
+Chuẩn kết nối Zigbee
+Kích thước (DxRxC) 120 x 80 x 24 mm
+Bảo hành 24 tháng",//input/mobile_images/2024/3/7/891/BỘ ĐIỀU KHIẾN TRUNG TÂM HOME CONTROLLER(HC).png,BỘ ĐIỀU KHIẾN TRUNG TÂM HOME CONTROLLER(HC).png,"điện áp hoạt động 12vdc – 0.5a
+nhiệt độ hoạt động 0oc ~ 50oc
+độ ẩm hoạt động 0 – 95%
+chuẩn kết nối zigbee
+kích thước (dxrxc) 120 x 80 x 24 mm
+bảo hành 24 tháng","công tắc, ổ cắm thông minh bộ điều khiển trung tâm home controller (hc)",0,0,0

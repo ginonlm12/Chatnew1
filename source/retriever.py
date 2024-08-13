@@ -1,6 +1,6 @@
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.retrievers import EnsembleRetriever, ContextualCompressionRetriever
 from langchain_cohere import CohereRerank
 from langchain_community.retrievers import BM25Retriever
@@ -42,7 +42,7 @@ def init_retriever(vector_db: Chroma, data_chunked):
     """
 
     # initialize the bm25 retriever
-    retriever_BM25 = BM25Retriever.from_documents(data_chunked)
+    retriever_BM25 = BM25Retriever.from_texts(data_chunked)
     retriever_BM25.k = APP_CONFIG.top_k
 
     retriever_vanilla = vector_db.as_retriever(search_type="similarity", 

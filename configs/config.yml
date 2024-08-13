@@ -49,5 +49,3 @@ product:
     0: "LLM",
     -1: "product_csv"
 }
-
-search_type:

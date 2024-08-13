@@ -1,7 +1,7 @@
 import os
 import csv
 from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTextSplitter
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from configs.load_config import LoadConfig
 from source.utils.data_preprocessing import convert_csv_to_txt
 
@@ -12,7 +12,7 @@ if len(os.listdir(CFG_APP.text_product_directory)) == 0:
     convert_csv_to_txt()
 
 
-def split_sub_file(data_path: str) -> Document:
+def split_sub_file(data_path: str):
     with open(data_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
@@ -25,7 +25,7 @@ def split_sub_file(data_path: str) -> Document:
     
     return data_chunked
 
-def split_file(data_path: str) -> Document:
+def split_file(data_path: str):
     with open(data_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
@@ -40,8 +40,9 @@ def split_file(data_path: str) -> Document:
 
 def create_sub_db(db_name: str)-> Chroma:
     csv_data_path = os.path.join(CFG_APP.csv_product_directory, db_name) + ".csv"
+    txt_data_path = os.path.join(CFG_APP.text_product_directory, db_name) + ".txt"
     persist_db_path = os.path.join(CFG_APP.persist_vector_directory, db_name)
-    data_chunked = split_sub_file(csv_data_path)
+    data_chunked = split_sub_file(txt_data_path)
 
     #initialize the chroma retriever
     if not persist_db_path:

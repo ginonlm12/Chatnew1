@@ -1,52 +1,219 @@
-X Sản phẩm: Máy lọc không khí Daikin MC30VVM - H có ID là: 608086, mã sản phẩm(mã Code) là: GDGDU000039, thông tin chi tiết về sản phẩm: Máy lọc không khí Daikin MC30VVM - H: Model: MC30VVM 
-Diện tích sử dụng: 20 - 25m² 
-Lưu lượng gió: 180 m³/h 
-Công suất: 63W 
-Độ ồn: 22/19 dB(A) 
-Kích thước: 550 x 300 x 200 mm 
-Trọng lượng: 12.5 kg
-giá: 3504000, số lượng: Máy lọc không khí Daikin MC30VVM - H đã bán là: 15, sản phẩm: Máy lọc không khí Daikin MC30VVM - H có giá:3504000
-X Sản phẩm: Máy lọc không khí Carrier AP43STRE 30W có ID là: 577846, mã sản phẩm(mã Code) là: M&EDM000005, thông tin chi tiết về sản phẩm: Máy lọc không khí Carrier AP43STRE 30W: 
-• Diện tích phòng sử dụng: Từ 28 - 43 m2 
-• Tốc độ làm sạch không khí: 360 m3/h 
-• Công suất: 30 W 
-• Điện thế: 220 V - 240 V 
-• Các cấp độ quạt: 1/2/3/4 
-• Độ ồn: 27 - 60 dB 
-• Cảm biến bụi mịn: PM2.5 
-• Bộ lọc: Lọc thô - Lọc HEPA - Active Carbon 
-• Tiện ích: - Chức năng Auto/Sleep Mode/Hẹn giờ - Chức năng khóa trẻ em - Chức năng báo thay bộ lọc 
-• Bảng điều khiển: Điều khiển cảm ứng; Hiển thị chất lượng không khí trên màn hình LED 
-• Kích thước: 410 x 210 x 628 mm 
-• Trọng lượng: 7.2 Kg
-giá: 3663220, số lượng: Máy lọc không khí Carrier AP43STRE 30W đã bán là: 14, sản phẩm: Máy lọc không khí Carrier AP43STRE 30W có giá:3663220
-X Sản phẩm: Máy lọc không khí Daikin MC40UVM6 có ID là: 577850, mã sản phẩm(mã Code) là: M&EGD000036, thông tin chi tiết về sản phẩm: Máy lọc không khí Daikin MC40UVM6: 
-• Diện tích: 31m2 
-• Công suất: 4m3/ phút 
-• Tính năng: Tinh lọc không khí với Công nghệ Streamer và phin lọc tĩnh điện Hepa. 
-• Đèn cảm biến: “phát hiện gấp 3” 
-• Thiết kế: hình tháp, tinh tế và nhỏ gọn. 
-• 3 chế độ hoạt động: Auto, Econo, Pollen 
-• Độ ồn tối đa: 49dB
-giá: 5366350, số lượng: Máy lọc không khí Daikin MC40UVM6 đã bán là: 14, sản phẩm: Máy lọc không khí Daikin MC40UVM6 có giá:5366350
-X Sản phẩm: Máy lọc không khí Carrier AP61UVRE 60W có ID là: 577848, mã sản phẩm(mã Code) là: M&EDM000006, thông tin chi tiết về sản phẩm: Máy lọc không khí Carrier AP61UVRE 60W: 
-• Diện tích hiệu quả: Từ 41-61 m2 
-• Tốc độ làm sạch: 510 m3/h 
-• Công suất: 60W 
-• Các cấp độ quạt: 1/2/3/4 
-• Độ ồn: 28 – 65 dB 
-• Cảm biến bụi mịn: PM2.5 
-• Bộ lọc: Lọc thô; lọc HEPA; active Carbon 
-• Tiện ích: - Chức năng Ionizer/ Anion - Chức năng UV Light + Màn lọc Photocatalyst - Chức năng Auto/Sleep Mode/Hẹn giờ - Chức năng khóa trẻ em - Chức năng báo thay bộ lọc 
-• Bảng điều khiển: Điều khiển cảm ứng; Hiển thị chất lượng không khí trên màn hình LED 
-• Kích thước: 460 x 230 x 710 mm
-giá: 6089160, số lượng: Máy lọc không khí Carrier AP61UVRE 60W đã bán là: 15, sản phẩm: Máy lọc không khí Carrier AP61UVRE 60W có giá:6089160
-X Sản phẩm: Máy Hút Bụi Bluestone Vcb-8067 có ID là: 622477, mã sản phẩm(mã Code) là: M&EMX100059, thông tin chi tiết về sản phẩm: Máy Hút Bụi Bluestone Vcb-8067: Công suất hoạt động:1800W 
-Công suất hút bụi:330W 
-Bộ lọc:Bộ lọc HEPA 
-Độ ồn:83 dB 
-Tiện ích:Dây điện tự thu gọn 
-Điều chỉnh sức hút bụi 
-Công nghệ:Công nghệ hút xoáy Cyclonic 
-Đầu hút bụi:Đầu hút bàn chải,Đầu hút khe,Đầu hút sàn.Đầu hút thảm
-giá: 3265020, số lượng: Máy Hút Bụi Bluestone Vcb-8067 đã bán là: 6, sản phẩm: Máy Hút Bụi Bluestone Vcb-8067 có giá:3265020
+X Sản phẩm: máy lọc không khí daikin mc30vvm - h có ID là: 608086, mã sản phẩm(mã Code) là: GDGDU000039, thông tin chi tiết về sản phẩm: máy lọc không khí daikin mc30vvm - h: model: mc30vvm
+diện tích sử dụng: 20 - 25m²
+lưu lượng gió: 180 m³/h
+công suất: 63w
+độ ồn: 22/19 db(a)
+kích thước: 550 x 300 x 200 mm
+trọng lượng: 12.5 kg, sản phẩm: máy lọc không khí daikin mc30vvm - h có giá:3504000
+X Sản phẩm: máy lọc không khí carrier ap61uvre 60w có ID là: 577848, mã sản phẩm(mã Code) là: M&EDM000006, thông tin chi tiết về sản phẩm: máy lọc không khí carrier ap61uvre 60w: • diện tích hiệu quả: từ 41-61 m2
+• tốc độ làm sạch: 510 m3/h
+• công suất: 60w
+• các cấp độ quạt: 1/2/3/4
+• độ ồn: 28 – 65 db
+• cảm biến bụi mịn: pm2.5
+• bộ lọc: lọc thô; lọc hepa; active carbon
+• tiện ích:
+- chức năng ionizer/ anion
+- chức năng uv light + màn lọc photocatalyst
+- chức năng auto/sleep mode/hẹn giờ
+- chức năng khóa trẻ em
+- chức năng báo thay bộ lọc
+• bảng điều khiển: điều khiển cảm ứng; hiển thị chất lượng không khí trên màn hình led
+• kích thước: 460 x 230 x 710 mm, sản phẩm: máy lọc không khí carrier ap61uvre 60w có giá:6028000
+X Sản phẩm: máy lọc không khí daikin mc40uvm6 có ID là: 577850, mã sản phẩm(mã Code) là: M&EGD000036, thông tin chi tiết về sản phẩm: máy lọc không khí daikin mc40uvm6: • diện tích: 31m2
+• công suất: 4m3/ phút
+• tính năng: tinh lọc không khí với công nghệ streamer và phin lọc tĩnh điện hepa.
+• đèn cảm biến: “phát hiện gấp 3”
+• thiết kế: hình tháp, tinh tế và nhỏ gọn.
+• 3 chế độ hoạt động: auto, econo, pollen
+• độ ồn tối đa: 49db, sản phẩm: máy lọc không khí daikin mc40uvm6 có giá:5313000
+X Sản phẩm: máy lọc không khí carrier ap43stre 30w có ID là: 577846, mã sản phẩm(mã Code) là: M&EDM000005, thông tin chi tiết về sản phẩm: máy lọc không khí carrier ap43stre 30w: • diện tích phòng sử dụng: từ 28 - 43 m2
+• tốc độ làm sạch không khí: 360 m3/h
+• công suất: 30 w
+• điện thế: 220 v - 240 v
+• các cấp độ quạt: 1/2/3/4
+• độ ồn: 27 - 60 db
+• cảm biến bụi mịn: pm2.5
+• bộ lọc: lọc thô - lọc hepa - active carbon
+• tiện ích:
+- chức năng auto/sleep mode/hẹn giờ
+- chức năng khóa trẻ em
+- chức năng báo thay bộ lọc
+• bảng điều khiển: điều khiển cảm ứng; hiển thị chất lượng không khí trên màn hình led
+• kích thước: 410 x 210 x 628 mm
+• trọng lượng: 7.2 kg, sản phẩm: máy lọc không khí carrier ap43stre 30w có giá:3627000
+X Sản phẩm: máy làm mát không khí empire epqm - 22000 có ID là: 689593, mã sản phẩm(mã Code) là: 394002000010, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 22000: điện áp: 220v/50hz. 
+công suất:350w. 
+điều khiển tự động 
+bình chứa: 40 lít. 
+kích thước: 440x540x1740mm, sản phẩm: máy làm mát không khí empire epqm - 22000 có giá:6282000
+X Sản phẩm: quạt lọc không khí bù ẩm
+ultty skj-cr022 có ID là: 689611, mã sản phẩm(mã Code) là: 482010000002, thông tin chi tiết về sản phẩm: quạt lọc không khí bù ẩm
+ultty skj-cr022: chức năng: làm mát -lọc không khí- cấp ẩm- khử khuẩn uvc 
+công suất: 32w - 36w 
+hẹn giờ: 1 – 8h 
+lưu lượng gió: 4,5 m/s 
+dung tích bình chứa nước tạo ẩm: 1,2l 
+điện áp: 110-220v/ac 
+kích thước quạt: 230 x 230 x 800mm 
+trọng lượng quạt: 3,2 kg 
+phương thức điều khiển: google home - ứng dụng trên điện thoại (app) - điều khiển từ xa - màn hình cảm ứng 
+công suất định danh: 60w 
+điện áp định danh: 24v / 2,5a 
+bảo hành: 02 năm, sản phẩm: quạt lọc không khí bù ẩm
+ultty skj-cr022 có giá:8500000
+X Sản phẩm: máy làm mát không khí empire epqm - 18000 có ID là: 689592, mã sản phẩm(mã Code) là: 394002000009, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 18000: điện áp: 220v/50hz.
+công suất: 200w.
+điều khiển tự động
+bình chứa: 30 lít.
+kích thước: 380x420x1300mm
+, sản phẩm: máy làm mát không khí empire epqm - 18000 có giá:5012000
+X Sản phẩm: máy hút ẩm và lọc không
+khí ultty luk016 có ID là: 689613, mã sản phẩm(mã Code) là: 426015000001, thông tin chi tiết về sản phẩm: máy hút ẩm và lọc không
+khí ultty luk016: công suất: 225 - 270w
+công suất hút ẩm : 16 - 20l/ngày
+điện áp: 1.25 - 1.4a
+độ ồn: ≤ 36 db
+tốc độ đối lưu không khí: 140m3/h
+dung tích bình nước: 2l
+bộ lọc: bộ lọc thô, than hoạt tính
+hẹn giờ: 1-24 giờ
+bánh xe di chuyển: 4 bánh
+kích thước: 280 x 200 x 500mm
+cân nặng: 12kg
+4 chế độ hút ẩm : chế độ ngày nắng - chế độ ngày mưa - chế độ sấy khô - chế độ ngủ
+tính năng "kép": lọc không khí bằng hệ màng lọc 2 lớp, sản phẩm: máy hút ẩm và lọc không
+khí ultty luk016 có giá:5500000
+X Sản phẩm: máy làm mát không khí empire epqm - 9000 có ID là: 689591, mã sản phẩm(mã Code) là: 394002000008, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 9000: thương hiệu: empire
+model: 9000
+công suất: 200w
+bình chứa: 60 lít
+điều khiển: cơ
+kích thước: 595 x 390 x 1170mm
+diện tích làm mát: 35-50m2
+, sản phẩm: máy làm mát không khí empire epqm - 9000 có giá:3074000
+X Sản phẩm: quạt tháp sưởi ấm và làm 
+mát ultty skj-cr018h có ID là: 689610, mã sản phẩm(mã Code) là: 482011000001, thông tin chi tiết về sản phẩm: quạt tháp sưởi ấm và làm 
+mát ultty skj-cr018h: loại: quạt tháp 2 chiều 
+công suất: làm mát 30w - làm ấm 2000w 
+tốc độ gió: làm ấm 4 tốc độ - làm mát 9 tốc độ 
+công nghệ sưởi ấm: ceramic 
+lớp tiêu âm : đế tiêu âm, buồng cách âm, vòng giảm thanh và lớp vật liệu cách âm 
+chế độ gió: 3 chế độ 
+diện tích sử dụng: 30 - 40m2 
+điều khiển từ xa 
+hẹn giờ: 1 - 8 giờ 
+góc quay: 80 độ 
+chất liệu: hợp kim nhôm 
+nguồn điện áp: 220v/50hz 
+kích thước : 101 x 23.5cm 
+khối lượng: 4kg, sản phẩm: quạt tháp sưởi ấm và làm 
+mát ultty skj-cr018h có giá:4750000
+X Sản phẩm: máy làm mát không khí empire epqm - 6900 có ID là: 689588, mã sản phẩm(mã Code) là: 394002000005, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 6900: thương hiệu: empire 
+model: 6900 
+công suất: 150w 
+bình chứa: 50 lít 
+điều khiển: cơ 
+kích thước: 505 x 350 x 1070mm 
+diện tích làm mát: 25-35m2, sản phẩm: máy làm mát không khí empire epqm - 6900 có giá:2366000
+X Sản phẩm: máy bù ẩm ultty b23 có ID là: 689616, mã sản phẩm(mã Code) là: 426017000001, thông tin chi tiết về sản phẩm: máy bù ẩm ultty b23: chức năng: tạo độ ẩm 
+tiện ích: có đèn ngủ 
+công suất: 2w 
+dung tích: 260ml 
+lượng hơi phun: 50 ml/h 
+dung lượng pin: 1.000 mah 
+thời gian sạc pin: 1,5 giờ 
+độ ồn: 30db 
+chất liệu: nhựa cao cấp 
+nguồn điện áp: dc 5v 
+trọng lượng sản phẩm: 313g 
+, sản phẩm: máy bù ẩm ultty b23 có giá:550000
+X Sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021 có ID là: 689609, mã sản phẩm(mã Code) là: 482010000001, thông tin chi tiết về sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021: góc quay lớn lên đến 90 độ 
+chiều dài dây dẫn điện: 1,5- 1,8 m 
+tốc độ gió 4,5m/s (16,2km/h) 
+công suất đầu vào: 35w 
+công suất đầu ra: 24w 
+độ ồn 35-40 db 
+kích thước sản phẩm: 215x215x550 mm 
+bảo hành: 2 năm, sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021 có giá:4500000
+X Sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021 có ID là: 689609, mã sản phẩm(mã Code) là: 482010000001, thông tin chi tiết về sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021: góc quay lớn lên đến 90 độ 
+chiều dài dây dẫn điện: 1,5- 1,8 m 
+tốc độ gió 4,5m/s (16,2km/h) 
+công suất đầu vào: 35w 
+công suất đầu ra: 24w 
+độ ồn 35-40 db 
+kích thước sản phẩm: 215x215x550 mm 
+bảo hành: 2 năm, sản phẩm: quạt lọc không khí thông 
+minh ultty skj-cr021 có giá:4500000
+X Sản phẩm: máy bắt muỗi và côn trùng
+ultty mkl có ID là: 689615, mã sản phẩm(mã Code) là: 426016000001, thông tin chi tiết về sản phẩm: máy bắt muỗi và côn trùng
+ultty mkl: kích thước sản phẩm: 231x124x125cm 
+cân nặng: 550g 
+đèn led tia cực tím: bước sóng 365nm 
+động cơ: 2000 vòng/phút 
+vật liệu: nhựa abs đạt chuẩn eu 
+độ ồn: <35db 
+nguồn điện: kết nối qua usb dc 5v 
+phạm vi hoạt động: lên tới 60m2 
+công nghệ 3 tác động hút muỗi vào bẫy 
+cột gió xoáy ốc tạo lực hút ly tâm bắt muỗi và côn trùng 
+thiết kế lồng nhốt tháo lắp 
+cửa lồng 1 chiều dạng nón ngược 
+bộ sản phẩm bao gồm: 1 thân máy - 1 bẫy mồi sinh học - 1 dây nguồn usb- 1 dây da treo máy 
+, sản phẩm: máy bắt muỗi và côn trùng
+ultty mkl có giá:1200000
+X Sản phẩm: bình điện phân phun sương diệt khuẩn ultty skj- crs01 có ID là: 689614, mã sản phẩm(mã Code) là: 277007000001, thông tin chi tiết về sản phẩm: bình điện phân phun sương diệt khuẩn ultty skj- crs01: bảo hành: 24 tháng (02 năm) 
+tần số (hz): 50/60hz 
+điện áp (v): 100 - 240 v 
+công suất (w): 26 w 
+kiểu lắp đặt: cầm tay 
+bảng điều khiển: nút nhấn 
+màu sắc: trắng 
+dung tích (l): 0.33l 
+chất liệu sản phẩm: nhựa, sản phẩm: bình điện phân phun sương diệt khuẩn ultty skj- crs01 có giá:2500000
+X Sản phẩm: quạt lọc không khí và khử khuẩn ultty bb có ID là: 689612, mã sản phẩm(mã Code) là: 482010000003, thông tin chi tiết về sản phẩm: quạt lọc không khí và khử khuẩn ultty bb: kích thước: 63cm x 55cm x 123cm
+bộ lọc hepa: h13+, hiệu suất 99,95%
+tốc độ phân phối luồng không khí: 9700 lít /phút
+diện tích hoạt động: lên đến 100m²
+trọng lượng: 7.0 kg
+công suất đầu ra: 35w
+các lớp lọc: màng lọc thô, lá chắn chống vi khuẩn, bộ lọc hepa h13++, công nghệ plasmacluster ion
+kích hoạt wifi 
+sản xuất ion âm 
+chức năng đèn ngủ 
+chỉ báo thay thế bộ lọc 
+chỉ báo chất lượng không khí dựa trên ánh sáng (đỏ, vàng cam, xanh) 
+khóa trẻ em 
+9 tốc độ quạt 
+chế độ ngủ 
+hẹn giờ thông minh 
+bảng hiển thị lcd 
+cảm biến thông minh: bộ đo pm 2.5 
+biên độ quay: 30°-60°-90°-120°, sản phẩm: quạt lọc không khí và khử khuẩn ultty bb có giá:7500000
+X Sản phẩm: máy hút bụi bluestone vcb-8067 có ID là: 622477, mã sản phẩm(mã Code) là: M&EMX100059, thông tin chi tiết về sản phẩm: máy hút bụi bluestone vcb-8067: công suất hoạt động:1800w
+công suất hút bụi:330w
+bộ lọc:bộ lọc hepa
+độ ồn:83 db
+tiện ích:dây điện tự thu gọn
+điều chỉnh sức hút bụi
+công nghệ:công nghệ hút xoáy cyclonic
+đầu hút bụi:đầu hút bàn chải,đầu hút khe,đầu hút sàn.đầu hút thảm
+, sản phẩm: máy hút bụi bluestone vcb-8067 có giá:1900000
+X Sản phẩm: máy làm mát không khí empire epqm - 8900 có ID là: 689590, mã sản phẩm(mã Code) là: 394002000007, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 8900: thương hiệu: empire 
+model: 8900 
+công suất: 200w 
+dung tích: 60 lít 
+điều khiển: cơ 
+kích thước: 595 x 390 x 1170mm, sản phẩm: máy làm mát không khí empire epqm - 8900 có giá:3074000
+X Sản phẩm: máy làm mát không khí empire epqm - 7000 có ID là: 689589, mã sản phẩm(mã Code) là: 394002000006, thông tin chi tiết về sản phẩm: máy làm mát không khí empire epqm - 7000: thương hiệu: empire 
+model: 7000 
+công suất: 150w 
+bình chứa: 50 lít 
+điều khiển: cơ 
+kích thước: 505 x 350 x 1070mm 
+diện tích làm mát: 25-35m2, sản phẩm: máy làm mát không khí empire epqm - 7000 có giá:2366000

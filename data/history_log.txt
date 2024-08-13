@@ -1,0 +1,77 @@
+X Sản phẩm: điều hòa mdv - inverter 9000 btu có ID là: 606038, mã sản phẩm(mã Code) là: 19013000001, thông tin chi tiết về sản phẩm: điều hòa mdv - inverter 9000 btu: nguồn điện: 220-240v
+công suất: 9500 btu/h
+công suất tiêu thụ: 745 w
+cường độ dòng điện: 3.4 a
+err: 3.54 w/w
+inverter : có
+kích thước máy trong ( dxrxc): 726x210x291 (mm)
+khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 kg
+kích thước máy ngoài (dxrxc): 835x300x540 (mm)
+khối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg
+loại gas/ khối lượng nạp: r32/0.38
+ap suất thiết kế: 4.3/1.7 mpa
+chiều dài đường ống tối đa: 25m
+chênh lệch độ cao tối đa: 10m
+phạm vi lành lạnh hiệu quả : 12~18 m2
+hiệu suất năng lượng : 4.48 cspf
+bảo hành 3 năm cho sản phẩm
+bảo hành 5 năm cho máy nén
+suất xứ : thái lan, sản phẩm: điều hòa mdv - inverter 9000 btu có giá:6014184
+
+
+
+X Sản phẩm: điều hòa mdv 1 chiều 12000 btu - model 2023 có ID là: 609541, mã sản phẩm(mã Code) là: 19013000004, thông tin chi tiết về sản phẩm: điều hòa mdv 1 chiều 12000 btu - model 2023: model: mdvg-13crdn8
+công suất: 12.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 15 - 20m²
+gas: r32
+mức tiêu thụ điện: 1.15 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 810 x 285 x 210 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 14 kg
+trọng lượng dàn nóng: 25 kg, sản phẩm: điều hòa mdv 1 chiều 12000 btu - model 2023 có giá:7246030
+
+
+X Sản phẩm: điều hòa mdv 1 chiều inverter 18000 btu - model 2023 có ID là: 609542, mã sản phẩm(mã Code) là: 19013000003, thông tin chi tiết về sản phẩm: điều hòa mdv 1 chiều inverter 18000 btu - model 2023: model: mdvg-18crdn8
+công suất: 18.000 btu/h
+loại: 1 chiều inverter
+diện tích sử dụng: 20 - 30m²
+gas: r32
+mức tiêu thụ điện: 1.65 kw/h
+độ ồn: 22/19 db(a)
+kích thước dàn lạnh: 969 x 320 x 241 mm
+kích thước dàn nóng: 770 x 285 x 540 mm
+trọng lượng dàn lạnh: 18 kg
+trọng lượng dàn nóng: 28 kg, sản phẩm: điều hòa mdv 1 chiều inverter 18000 btu - model 2023 có giá:11740520
+
+
+
+X Sản phẩm: điều hòa 1 chiều carrier inverter 9000 btu/h (1 hp) - model 2023 có ID là: 609530, mã sản phẩm(mã Code) là: 19014000001, thông tin chi tiết về sản phẩm: điều hòa 1 chiều carrier inverter 9000 btu/h (1 hp) - model 2023: loại: điều hòa 1 chiều inverter
+công suất: 9.000 btu/h (1 hp)
+diện tích sử dụng: dưới 15m²
+mức tiêu thụ điện:
+làm lạnh: 1.15 kw/h
+sưởi ấm: -
+hiệu suất năng lượng: 5.8 (a++)
+gas: r32
+chế độ inverter: có
+chức năng:
+làm lạnh nhanh
+tự làm sạch
+lọc bụi mịn pm2.5
+khử mùi
+chế độ gió coanda
+hẹn giờ
+điều khiển từ xa
+độ ồn:
+dàn lạnh: 22/19 db(a)
+dàn nóng: 52/48 db(a)
+kích thước:
+dàn lạnh: 800 x 295 x 200 mm
+dàn nóng: 770 x 285 x 540 mm
+trọng lượng:
+dàn lạnh: 12 kg
+dàn nóng: 25 kg, sản phẩm: điều hòa 1 chiều carrier inverter 9000 btu/h (1 hp) - model 2023 có giá:9423040
+
+

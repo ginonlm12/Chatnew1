@@ -88,7 +88,8 @@ tool = create_retriever_tool(
 )
 tools = [tool]
 
-llm = ChatOpenAI(model="gpt-4-1106-preview")
+llm = ChatOpenAI(model="    memory.chat_memory.add_user_message(query)
+o-mini")
 
 adviser_agent = create_react_agent(llm, tools, prompt)
 agent_executor = AgentExecutor(agent=adviser_agent, tools=tools, verbose=True)

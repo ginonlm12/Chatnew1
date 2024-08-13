@@ -12,14 +12,14 @@ def csv2txt(csv_link):
         reader = csv.DictReader(csvfile)
         for row in reader:
             # Lấy thông tin từ mỗi hàng của file CSV
-            PRODUCT_NAME = row['PRODUCT_NAME']  # Thay 'Tên Sản Phẩm' bằng tên cột chứa tên sản phẩm trong file CSV của bạn
-            PRODUCT_INFO_ID = row['PRODUCT_INFO_ID']  # Thay 'ID' bằng tên cột chứa ID sản phẩm trong file CSV của bạn
-            PRODUCT_CODE = row['PRODUCT_CODE']  # Thay 'Code' bằng tên cột chứa mã code sản phẩm trong file CSV của bạn
-            SPECIFICATION_BACKUP = row['SPECIFICATION_BACKUP']
-            QUANTITY_SOLD = row['QUANTITY_SOLD']
-            RAW_PRICE = row['RAW_PRICE']
+            PRODUCT_NAME = row['product_name']  # Thay 'Tên Sản Phẩm' bằng tên cột chứa tên sản phẩm trong file CSV của bạn
+            PRODUCT_INFO_ID = row['product_info_id']  # Thay 'ID' bằng tên cột chứa ID sản phẩm trong file CSV của bạn
+            PRODUCT_CODE = row['product_code']  # Thay 'Code' bằng tên cột chứa mã code sản phẩm trong file CSV của bạn
+            SPECIFICATION_BACKUP = row['specification']
+            # QUANTITY_SOLD = row['QUANTITY_SOLD']
+            RAW_PRICE = row['lifecare_price']
             # In ra văn bản theo định dạng mong muốn
-            s = f"X Sản phẩm: {PRODUCT_NAME} có ID là: {PRODUCT_INFO_ID}, mã sản phẩm(mã Code) là: {PRODUCT_CODE}, thông tin chi tiết về sản phẩm: {PRODUCT_NAME}: {SPECIFICATION_BACKUP}, số lượng: {PRODUCT_NAME} đã bán là: {QUANTITY_SOLD}, sản phẩm: {PRODUCT_NAME} có giá:{RAW_PRICE}\n"
+            s = f"X Sản phẩm: {PRODUCT_NAME} có ID là: {PRODUCT_INFO_ID}, mã sản phẩm(mã Code) là: {PRODUCT_CODE}, thông tin chi tiết về sản phẩm: {PRODUCT_NAME}: {SPECIFICATION_BACKUP}, sản phẩm: {PRODUCT_NAME} có giá:{RAW_PRICE}\n"
             data_text = data_text + s
             # print(s)
     return data_text
@@ -72,3 +72,19 @@ def csv_to_sqlite(directory, db_name):
     # Đóng kết nối cơ sở dữ liệu
     conn.close()
 
+def convert_xlsx_to_csv():
+    directory_csv = APP_CFG.csv_product_directory
+    directory_xlsx = APP_CFG.csv_product_directory
+
+    files = [f for f in os.listdir(directory_xlsx) if os.path.isfile(os.path.join(directory_xlsx, f))]
+    xlsx_files = [f for f in files if f.endswith('.xlsx')]
+
+    for xlsx_file in xlsx_files:
+        # Đọc file XLSX
+        xlsx_path = os.path.join(directory_xlsx, xlsx_file)
+        csv_file = xlsx_file.replace('.xlsx', '.csv')
+        csv_path = os.path.join(directory_csv, csv_file)
+        
+        # Chuyển đổi và lưu thành file CSV
+        df = pd.read_excel(xlsx_path)
+        df.to_csv(csv_path, index=False, encoding='utf-8')

@@ -1,38 +1,44 @@
-X Sản phẩm: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN có ID là: 571596, mã sản phẩm(mã Code) là: SMSMH000017, thông tin chi tiết về sản phẩm: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN: 
-• Hộp bụi: 700 ml 
-• Công suất hoạt động: 38W 
-• Công suất hút: 1200 -1600 Pa 
-• Độ ồn cao nhất: 78 dB 
-• Bộ lọc: Bộ lọc HEPA 
-• Phiên bản: Quốc tế 
-• Dung lượng pin: 2100 mAh 
-• Thời gian sử dụng: Sạc khoảng 2 - 3 giờ, dùng khoảng 75 phút 
-• Kích thước, khối lượng: Ngang 33 cm - Cao 10 cm - Sâu 32 cm - 3.4 kg 
-• Công nghệ: + Công nghệ SpinFlow Power Clean + Công nghệ sạc nhanh Quick Boost 
-• Tiện ích: + Tường ảo thông minh Neato NO-Go line + Điều hướng thông minh nhờ công nghệ SmartLaserTM + Cảm biến chống rơi, chống va chạm + Điều khiển qua kết nối trên điện thoại thông minh + Lưu được 1 bản đồ + Tự quay về đế/trạm sạc + Tính năng tường ảo + Hẹn giờ
-giá: 8059920, số lượng: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN đã bán là: 6, sản phẩm: Robot hút bụi NEATO BOTVAC CONNECTED D401 ĐEN có giá:8059920
-X Sản phẩm: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám có ID là: 571597, mã sản phẩm(mã Code) là: SMRBT000001, thông tin chi tiết về sản phẩm: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám: 
-• Pin/dung lượng: Lithium 14.8V-DC/5200mAh 
-• Điện áp sử dụng: 100-240V 
-• Thời gian hoạt động: 120′ – 180′ 
-• Khả năng vượt vật cản tối đa: 2cm 
-• Kích thước (Dài, Rộng, Cao :cm): 35 x 35 x 9.3 
-• Kí hiệu dock sạc – điện áp: CH1630A – 14.8V 
-• Thời gian sạc pin: 5h 
-• Trọng lượng: 5,2kg 
-• Tiếng ồn khi hoạt động (dBA) <100dB 
-• Công suất/ lực hút: 5000Pa 
-• Điều chỉnh độ ẩm: Có 
-• Dung tích hộp chứa bụi: 380ml 
-• Dung tích ngăn đựng nước: 200ml 
-• Hệ thống điều hướng AIVI 3D 
-• Công nghệ thiết lập bản đồ TrueMapping 2.0 
-• Chức năng làm sạch: Quét hút + lau + Tự giặt khăn lau 
-• Diện tích căn hộ phù hợp <200m2/ nhà nhiều tầng 
-• Cảm biến chống va chạm: Có 
-• Hẹn giờ chạy tự động: Có + hẹn giờ theo khu vực 
-• Hiển thị bản đồ 3D: Có 
-• Thông báo bằng giọng nói: Có 
-• Trợ lý giọng nói YIKO: Có 
-• Nâng cấp phần mềm OTA: Có
-giá: 21605870, số lượng: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám đã bán là: 9, sản phẩm: Robot hút bụi lau nhà Ecovacs Deebot X1 Omni - xám có giá:21605870
+X Sản phẩm: robot hút bụi neato botvac connected d401 đen có ID là: 571596, mã sản phẩm(mã Code) là: SMSMH000017, thông tin chi tiết về sản phẩm: robot hút bụi neato botvac connected d401 đen: • hộp bụi: 700 ml
+• công suất hoạt động: 38w
+• công suất hút: 1200 -1600 pa
+• độ ồn cao nhất: 78 db
+• bộ lọc: bộ lọc hepa
+• phiên bản: quốc tế
+• dung lượng pin: 2100 mah
+• thời gian sử dụng: sạc khoảng 2 - 3 giờ, dùng khoảng 75 phút
+• kích thước, khối lượng: ngang 33 cm - cao 10 cm - sâu 32 cm - 3.4 kg
+• công nghệ:
++ công nghệ spinflow power clean
++ công nghệ sạc nhanh quick boost
+• tiện ích:
++ tường ảo thông minh neato no-go line
++ điều hướng thông minh nhờ công nghệ smartlasertm
++ cảm biến chống rơi, chống va chạm
++ điều khiển qua kết nối trên điện thoại thông minh
++ lưu được 1 bản đồ
++ tự quay về đế/trạm sạc
++ tính năng tường ảo
++ hẹn giờ, sản phẩm: robot hút bụi neato botvac connected d401 đen có giá:7979000
+X Sản phẩm: robot hút bụi lau nhà ecovacs deebot x1 omni - xám có ID là: 571597, mã sản phẩm(mã Code) là: SMRBT000001, thông tin chi tiết về sản phẩm: robot hút bụi lau nhà ecovacs deebot x1 omni - xám: • pin/dung lượng: lithium 14.8v-dc/5200mah
+• điện áp sử dụng: 100-240v
+• thời gian hoạt động: 120′ – 180′
+• khả năng vượt vật cản tối đa: 2cm
+• kích thước (dài, rộng, cao :cm): 35 x 35 x 9.3
+• kí hiệu dock sạc – điện áp: ch1630a – 14.8v
+• thời gian sạc pin: 5h
+• trọng lượng: 5,2kg
+• tiếng ồn khi hoạt động (dba) <100db
+• công suất/ lực hút: 5000pa
+• điều chỉnh độ ẩm: có
+• dung tích hộp chứa bụi: 380ml
+• dung tích ngăn đựng nước: 200ml
+• hệ thống điều hướng aivi 3d
+• công nghệ thiết lập bản đồ truemapping 2.0
+• chức năng làm sạch: quét hút + lau + tự giặt khăn lau
+• diện tích căn hộ phù hợp <200m2/ nhà nhiều tầng
+• cảm biến chống va chạm: có
+• hẹn giờ chạy tự động: có + hẹn giờ theo khu vực
+• hiển thị bản đồ 3d: có
+• thông báo bằng giọng nói: có
+• trợ lý giọng nói yiko: có
+• nâng cấp phần mềm ota: có, sản phẩm: robot hút bụi lau nhà ecovacs deebot x1 omni - xám có giá:21389000

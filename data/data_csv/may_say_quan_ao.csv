@@ -1,23 +1,31 @@
-PRODUCT_INFO_ID,GROUP_PRODUCT_ID,GROUP_PRODUCT_NAME,PRODUCT_CODE,NON_VAT_PRICE_1,VAT_PRICE_1,COMMISSION_1,THRESHOLD_1,NON_VAT_PRICE_2,VAT_PRICE_2,COMMISSION_2,THRESHOLD_2,NON_VAT_PRICE_3,VAT_PRICE_3,PRODUCT_NAME,SPECIFICATION_BACKUP,RAW_PRICE,QUANTITY_SOLD,POWER,WEIGHT,VOLUME
-571583,Máy Sấy,"máy sấy , máy sấy quần áo electrolux 8.5 kg edv854j3wb trắng",M&EGD000249,8586200,9444820,85862,Giá trị đơn hàng > 80 triệu,8774200,9651620,175484,Giá trị đơn hàng từ 50-80 triệu,9518400,10470240,Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng,"
-• Màu sắc: Trắng 
-• Xuất xứ: Thái Lan 
-• Năm ra mắt: 2022 
-• Thời gian bảo hành: 24 Tháng 
-• Công nghệ Inverter: Không có 
-• Loại máy sấy: Cửa ngang 
-• Khối lượng sấy: 8.5Kg 
-• Công suất: Công suất tiêu thụ 2250 W 
-• Kiểu sấy: Sấy thông hơi 
-• Tốc độ sấy: 3 mức 
-• Chất liệu lồng sấy: Thép không gỉ 
-• Số chương trình: 12 chương trình 
-• Nhiệt độ sấy: tăng cường, trung bình, sấy gió 
-• Loại điều khiển: Núm vặn và nút cảm ứng 
-• Màn hình hiển thị: Điện tử 
-• Hẹn giờ: Có 
-• Khoá an toàn: Có 
-• Ngôn ngữ hiển thị: Tiếng Việt 
-• Khối lượng sản phẩm (kg): 32.5 kg 
-• Kích thước sản phẩm: 850 x 596,5 x 625 mm
-giá: 10470240",10470240,6,2250,32.5,0.0
+product_info_id,group_product_id,group_product_code,group_product_name,product_code,product_name,is_highlight,package_id,lifecare_price,product_info,file_path,name,specification,group_name,power,weight,volume
+571583,582,DM0000581,máy sấy,M&EGD000249,máy sấy quần áo electrolux 8.5 kg edv854j3wb trắng,0,240018,8889000,"• Áo quần không bị xoắn rối, giảm nhăn sau khi sấy nhờ công nghệ sấy đảo chiều Reverse Tumbling, máy sấy thông hơi sẽ là sự lựa chọn phù hợp cho các gia đình có từ 3 - 5 thành viên với nhu cầu làm khô quần áo nhanh chóng, hay không có nhiều không gian cho việc phơi đồ.
+
+• Máy hoạt động êm ái, bền bỉ với động cơ dây curoa. Độ ồn theo hãng công bố là 63 dB (tương đương độ ồn của cuộc nói chuyện bình thường).
+
+• Công nghệ sấy đảo chiều Reverse Tumbling: chống xoắn rối quần áo và giảm nhăn đến 32% nhờ lồng sấy chuyển động và đảo chiều liên tục, Công nghệ sấy diệt khuẩn Hygienic Care: loại bỏ các tác nhân gây dị ứng như phấn hoa, lông chó mèo.
+
+• Hẹn giờ sấy: bạn có thể hẹn giờ khởi động chương trình sau 30 phút, 60 phút hoặc 90 phút và từ 2 đến 20 giờ.
+
+• Khóa trẻ em: khóa các phím chức năng để tránh các bé nghịch phá bảng điều khiển.
+
+• Sấy nhanh 40 phút: tiết kiệm thời gian sấy quần áo.",//input/mobile_images/2024/1/23/601/Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng.jpg,Máy sấy quần áo Electrolux 8.5 kg EDV854J3WB Trắng.jpg,"• màu sắc: trắng
+• xuất xứ: thái lan
+• năm ra mắt: 2022
+• thời gian bảo hành: 24 tháng
+• công nghệ inverter: không có
+• loại máy sấy: cửa ngang
+• khối lượng sấy: 8.5kg
+• công suất: công suất tiêu thụ 2250 w
+• kiểu sấy: sấy thông hơi
+• tốc độ sấy: 3 mức
+• chất liệu lồng sấy: thép không gỉ
+• số chương trình: 12 chương trình
+• nhiệt độ sấy: tăng cường, trung bình, sấy gió
+• loại điều khiển: núm vặn và nút cảm ứng
+• màn hình hiển thị: điện tử
+• hẹn giờ: có
+• khoá an toàn: có
+• ngôn ngữ hiển thị: tiếng việt
+• khối lượng sản phẩm (kg): 32.5 kg
+• kích thước sản phẩm: 850 x 596,5 x 625 mm",máy sấy quần áo electrolux 8.5 kg edv854j3wb trắng,2250,8.5,0

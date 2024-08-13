@@ -316,40 +316,12 @@ HƯỚNG DẪN CHI TIẾT:
         Ví dụ: 
         Câu hỏi lịch sử: "Tôi muốn xem những loại điều hòa giá rẻ."
         Trả lời: Đưa ra 3 sản phẩm liên quan kèm tên hãng và giá:
-                 1. Điều hòa LG giá 10,000,000 đồng.
-                 2. Điều hòa Carrier giá 6,000,000 đồng.
-                 3. Điều hòa Daikin giá 9,000,000 đồng.
+                    1. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB
+                    2. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB
+                    3. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB
         Câu hỏi hiện tại: Tôi muốn xem sản phẩm số 3.
-        rewrite: Tôi muốn xem sản phẩm điều hòa Daikin.
+        rewrite: Tôi muốn xem sản phẩm điều hòa Electrolux UltimateCare 500 Inverter EWF1024P5SB.
         Lưu ý: Chỉ trả ra câu rewrite không trả ra những dòng text linh tinh.
-NHIỆM VỤ: Bạn là một người thông minh, tinh tế có thể hiểu rõ được câu hỏi của khách hàng. Tôi muốn bạn kết hợp từ câu hỏi mới của khách hàng và phần lịch sử đã trả lời trước đó để tạo ra một câu hỏi mới có nội dung dễ hiểu và sát với ý hỏi của người hỏi.
-HƯỚNG DẪN CHI TIẾT:
-    Bước 1. Phân tích lịch sử trò chuyện:
-        • Đọc kỹ thông tin lịch sử cuộc trò chuyện gần đây nhất được cung cấp.
-        • Xác định các chủ đề chính, từ khóa quan trọng và bối cảnh của cuộc trò chuyện.
-        • Lấy ra những từ khóa chính đó.
-    Bước 2. Xử lý câu hỏi tiếp theo:
-        • Đọc câu hỏi tiếp theo được khách hàng đưa ra.
-        • Lấy ra nội dung chính trong câu hỏi.
-        • Đánh giá mức độ liên quan của câu hỏi với lịch sử trò chuyện.
-    Bước 3. Đặt lại câu hỏi:
-        • Nếu câu hỏi có liên quan đến lịch sử thì đặt lại câu hỏi mới dựa trên các từ khóa lấy ở bước 1 và nội dung chính câu hỏi ở bước 2. Câu hỏi viết lại ngắn gọn, rõ ràng tập trung vào sản phẩm. 
-        • Nếu câu hỏi không liên quan đến lịch sử thì giữ nguyên câu hỏi và thay đổi 1 chút từ ngữ để câu hỏi rõ ràng, minh bạch hơn.
-    Bước 4. Định dạng câu trả lời:
-        • Sử dụng tiếng Việt cho toàn bộ câu trả lời.
-        • Cấu trúc câu trả lời như sau: 
-            rewrite: [Câu hỏi sau khi được chỉnh sửa hoặc làm rõ]
-
-        Ví dụ: 
-        Câu hỏi lịch sử: "Tôi muốn xem những loại điều hòa giá rẻ."
-        Trả lời: Đưa ra 3 sản phẩm liên quan kèm tên hãng và giá:
-                 1. Điều hòa LG giá 10,000,000 đồng.
-                 2. Điều hòa Carrier giá 6,000,000 đồng.
-                 3. Điều hòa Daikin giá 9,000,000 đồng.
-        Câu hỏi hiện tại: Tôi muốn xem sản phẩm số 3.
-        rewrite: Tôi muốn xem sản phẩm điều hòa Daikin.
-        Lưu ý: Chỉ trả ra câu rewrite không trả ra những dòng text linh tinh.
-
     ===================
     Lịch sử cuộc trò chuyện:
     {chat_history}
@@ -394,6 +366,54 @@ HƯỚNG DẪN CHI TIẾT:
     Câu hỏi của người dùng: 
     {question}
     """
+    
+PROMPT_HISTORY_MODIFY = """
+NHIỆM VỤ: Bạn là một người thông minh, tinh tế có thể hiểu rõ được câu hỏi của khách hàng. 
+Tôi muốn bạn kết hợp từ 1. câu hỏi mới của khách hàng, 2. phần lịch sử đã trả lời trước đó và 3. file nội dung các sản phẩm đã được lưu sẵn
+để quyết định việc có thể dựa vào phần nội dung các sản phẩm đã được lưu trả lời luôn câu hỏi của khách hàng hay là nên viết lại
+câu trả lời của khách hàng dựa vào phần lịch sử đã trả lời trước đó.
+
+    Định dạng câu trả lời:
+        • Sử dụng tiếng Việt cho toàn bộ câu trả lời.
+        • Cấu trúc câu trả lời như sau: 
+           - Nếu trích xuất được thông tin từ file nội dung đã lưu:
+                answer: [Thông tin trích xuất được để trả lời cho người dùng]
+                rewrite: [Câu hỏi sau khi được chỉnh sửa hoặc làm rõ]
+            - Nếu không trích xuất được thông tin từ file nội dung đã lưu:
+                answer: "None"
+                rewrite: [Câu hỏi sau khi được chỉnh sửa hoặc làm rõ]
+
+        Ví dụ: 
+        Câu hỏi lịch sử: "Tôi muốn xem những loại điều hòa giá rẻ."
+        Trả lời: Đưa ra 3 sản phẩm liên quan kèm tên hãng và giá:
+                    1. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB
+                    2. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB
+                    3. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB
+        Câu hỏi hiện tại: Tôi muốn xem sản phẩm số 3.
+        Nếu phần nội dung đã lưu có lưu thông tin về sản phẩm Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB thì phải lấy ra toàn bộ thông tin liên quan đến sản phẩm này, ví dụ:
+            answer: Sản phẩm: máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb có ID là: 571591, mã sản phẩm(mã Code) là: 128004000003, thông tin chi tiết về sản phẩm: máy giặt electrolux ultimatecare 500 inverter ewf1024p5sb: loại máy giặt: cửa trước 
+                lồng giặt: lồng ngang
+                khối lượng giặt: 10 kg
+                ...
+                sản phẩm: máy giặt electrolux lồng ngang 10kg màu trắng ewf1024d3wb có giá:8659000
+            rewrite: Tôi muốn xem sản phẩm điều hòa Electrolux UltimateCare 500 Inverter EWF1024P5SB.
+        Nếu phần nội dung không lưu, thì bạn phải viết lại cho dễ hiểu:
+            answer: "None"
+            rewrite: Tôi muốn xem sản phẩm điều hòa Electrolux UltimateCare 500 Inverter EWF1024P5SB.
+        Lưu ý: Chỉ trả ra câu rewrite không trả ra những dòng text linh tinh.
+    ===================
+    Lịch sử cuộc trò chuyện:
+    {chat_history}
+    ===================
+    Câu hỏi của người dùng: 
+    {question}
+    ===================
+    File nội dung đã lưu tạm thời: 
+    {history_product_log}
+    """
+
+
+
 PROMPT_SQL_OR_TEXT = '''
     Bạn là một chuyên gia trong lĩnh vực xử lý truy vấn. Nhiệm vụ của bạn là quyết định xem truy vấn của người dùng nên được xử lý bằng câu truy vấn SQL hay chỉ đơn giản là truy vấn từ text. Dưới đây là các nguyên tắc:
     
